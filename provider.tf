@@ -12,5 +12,3 @@ provider "aws" {
   profile                  = "vscode"
 }
 
-
-
